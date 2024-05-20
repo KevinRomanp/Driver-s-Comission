@@ -1,0 +1,46 @@
+{
+  "id": "7166e110-ccb5-49eb-b455-a436d564f86a",
+  "name": "Driver's Comission",
+  "publisher": "Kevin Roman",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "dc9f2114-cdfc-4bde-8c06-ac259a176816",
+      "publisher": "Kevin Roman",
+      "name": "DSLocalization",
+      "version": "1.1.1.72" 
+    },
+    {
+      "id": "40ff55d0-7214-4e06-9eb2-5b28b1f24476",
+      "publisher": "Kevin Roman",
+      "name": "DSPayroll",
+      "version": "22.0.1.10"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 80000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
